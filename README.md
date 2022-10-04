@@ -11,9 +11,10 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
+![Screenshot-1](https://user-images.githubusercontent.com/63336667/193890035-dae4c1f6-68e1-4795-a090-64473a64c5e8.png)
 
-[Screenshot of website 1](Develop\assets\images\Screenshot-1.png)
-[Screenshot of website 2](Develop\assets\images\Screenshot-2.png)
+![Screenshot-2](https://user-images.githubusercontent.com/63336667/193890065-8cf89b17-2ff2-4d8b-8ef7-5449519964c5.png)
+
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
