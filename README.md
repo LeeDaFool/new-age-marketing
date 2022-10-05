@@ -6,6 +6,8 @@ Wanted to build a website that was accessible for everyone, when I say everyone 
 
 ## Usage
 
+Screenshot-1.png
+Screenshot-2.png
 
 ## Credits
 The Coding Bootcamp: https://github.com/coding-boot-camp
